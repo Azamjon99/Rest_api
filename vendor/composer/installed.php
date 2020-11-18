@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'a4fe08bcaf7400f65085593d3e83d4a1759a016b',
+    'reference' => '0ba0161c80d77c84f4d01114f0051b92a10396ec',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -463,7 +463,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'a4fe08bcaf7400f65085593d3e83d4a1759a016b',
+      'reference' => '0ba0161c80d77c84f4d01114f0051b92a10396ec',
     ),
     'laravel/passport' => 
     array (
@@ -482,6 +482,15 @@
       array (
       ),
       'reference' => '45884b526e10a88a1b179fa1a1a24d5468c668c2',
+    ),
+    'laravel/ui' => 
+    array (
+      'pretty_version' => 'v3.1.0',
+      'version' => '3.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '444072cb2f8baaa15172c5cde2bd30d188c3b7e7',
     ),
     'lcobucci/jwt' => 
     array (
